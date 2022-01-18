@@ -64,8 +64,8 @@ foto-modified.png "></a>
 
 Made by Jaubert Machado 👋🏽 Contact Me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@JaubertMachado-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JaubertMachado)](https://twitter.com/JaubertMachado) [![Linkedin Badge](https://img.shields.io/badge/-Jaubert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jaubert-machado)](www.linkedin.com/in/jaubert-machado) 
-[![Gmail Badge](https://img.shields.io/badge/-jaubertsv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaubertsv@gmail.com)](mailto:jaubertsv@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-Jaubert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jaubert-machado)](https://linkedin.com/in/jaubert-machado) 
+[![Email Badge](https://img.shields.io/badge/-jaubertmv@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:jaubertmv@outlook.com)](mailto:jaubertmv@hotmail.com)  
 
 <h1 id="licence"> Licence </h1>
 
