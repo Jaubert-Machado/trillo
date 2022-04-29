@@ -3,7 +3,7 @@
   </h1>
   
 <h1 align="center"> Trillo Project </h1> 
-<p align="center"><a href="https://jaubert-machado.github.io/trillo-project/">Project link</a></p>
+<p align="center"><a href="https://jaubert-machado.github.io/trillo/">Project link</a></p>
 
 <p align="center"> Project made during the Advanced CSS and Sass (by: Jonas Schmedtmann) course, Trillo is a booking application where you can plan your entire trip without leaving the platform. </p>
 <h1 align="center">
